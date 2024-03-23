@@ -18,3 +18,7 @@ Information regarding each option is going to be updated at a later date.
     - [ElephantSQL](https://www.elephantsql.com/plans.html)
  - SQLite/edge databases:
     - [Turso](https://turso.tech/pricing) 
+
+**Acknowledgements:**
+- learnt about containers' options from [Fireship's video](https://youtu.be/cw34KMPSt4k)
+- learnt about Turso from the description on one of the videos of [ThePrimeagen](https://www.youtube.com/@ThePrimeagen)
