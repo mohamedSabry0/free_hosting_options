@@ -16,5 +16,5 @@ Information regarding each option is going to be updated at a later date.
  - PostgreSQL:
     - [https://neon.tech/](https://neon.tech/pricing)
     - [ElephantSQL](https://www.elephantsql.com/plans.html)
- - SQLite:
+ - SQLite/edge databases:
     - [Turso](https://turso.tech/pricing) 
