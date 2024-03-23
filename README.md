@@ -20,6 +20,7 @@ Information regarding each option is going to be updated at a later date.
     - [Vercel Postgres](https://vercel.com/storage/postgres)
  - SQLite/edge databases:
     - [Turso](https://turso.tech/pricing)
+    - [Cloudflare KV](https://developers.cloudflare.com/kv)
  - MySQL:
     - [Aiven](https://aiven.io)
  - Redis: 
@@ -30,6 +31,7 @@ Information regarding each option is going to be updated at a later date.
     - [Firebase](https://firebase.google.com/products-build)
  - SQL:
     - [CockroachDB](cockroachlabs.com)
+    - [Cloudflare D1](https://developers.cloudflare.com/d1/)
     - [Edgedb](https://www.edgedb.com) (soon)
 
 **Acknowledgements:**
